@@ -1,8 +1,8 @@
 {
-    "last_completed_epoch": 48,
-    "best_val_loss": 1.1041518688201903,
-    "current_val_loss": 1.1041518688201903,
-    "val_suit_acc": 90.56603773584906,
-    "val_rank_acc": 77.73584905660378,
-    "learning_rate": 0.0001
+    "last_completed_epoch": 85,
+    "best_val_loss": 0.8250145196914673,
+    "current_val_loss": 0.8828843235969543,
+    "val_suit_acc": 94.33962264150944,
+    "val_rank_acc": 81.88679245283019,
+    "learning_rate": 1.0000000000000002e-06
 }
